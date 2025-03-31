@@ -1,6 +1,6 @@
 ![Animated Banner](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)  
 
-<img align="right" alt="Coding" width="300" src="https://drive.google.com/uc?export=view&id=18n96ROALOuzsiC98nr3lZKWzjsFVUHHA">
+<img align="right" alt="Coding" width="280" src="https://drive.google.com/uc?export=view&id=18n96ROALOuzsiC98nr3lZKWzjsFVUHHA">
 
 ### 🌟 **Hi, I'm E.V Sai Ganesh!**  
 🚀 Passionate **Web & Mobile Developer** | 🎨 **UI/UX Designer** | 💡 Tech Enthusiast from **India** 
