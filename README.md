@@ -1,7 +1,9 @@
 ![Animated Banner](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)  
-<img align="right" alt="Coding" width="300" src="https://github.com/saiganesh113/My_Portfolio/blob/main/assets/img/profile.png?raw=true">
+
+<img align="right" alt="Coding" width="300" src="https://drive.google.com/uc?export=view&id=18n96ROALOuzsiC98nr3lZKWzjsFVUHHA">
+
 ### 🌟 **Hi, I'm E.V Sai Ganesh!**  
-🚀 Passionate **Web & Mobile Developer** | 🎨 **UI/UX Designer** | 💡 Tech Enthusiast from **India**  
+🚀 Passionate **Web & Mobile Developer** | 🎨 **UI/UX Designer** | 💡 Tech Enthusiast from **India** 
 
 🔭 **Currently working on:** **User-Management System**  
 🌱 **Exploring:** **Next.js, TypeScript & Tailwind CSS**  
@@ -16,7 +18,8 @@
 ---
 
 ## 🚀 **Tech Stack & Tools I Use:**  
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
+<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
+
 
 | **Frontend** | **Backend** | **Database** | **Tools & Platforms** |
 |-------------|------------|-------------|----------------------|
@@ -50,7 +53,7 @@
   <br>
 
   <a href="https://discord.gg/sai_ganesh_113" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="20" width="20" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="30" />
   </a> <strong>Discord:</strong> <code>sai_ganesh_113</code>
 </p>
 
