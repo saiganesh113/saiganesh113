@@ -72,9 +72,9 @@
 ---
 
 ## 🎯 **What I Do Best:**  
-✅ Frontend Development (**React.js, Vue.js, Angular**)  
+✅ Frontend Development (**HTML, React.js, Vue.js, Angular,**)  
 ✅ Backend Development (**Node.js, Express.js, Java, Python**)  
 ✅ Database Management (**MongoDB, MySQL**)  
 ✅ UI/UX Designing (**Figma, Photoshop**)  
-✅ Mobile App Development (**React Native, Android**)  
+✅ Mobile App Development (**React Native, Android Studio**)  
 
