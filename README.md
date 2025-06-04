@@ -11,7 +11,7 @@
 
 📫 **Reach me at:** [iamevsaiganesh@gmail.com](mailto:iamevsaiganesh@gmail.com)  
 📂 **Portfolio:** [My Portfolio](https://saiganesh113.github.io/My_Portfolio/)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1buPrcEMHasEAwecxGY1REDeN1FlZoFvS/view?usp=sharing)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/10MNwvD-UM7UXf0yVcK5nbC1BOGna0uwW/view?usp=sharing)  
 
 > 💡 **Fun Fact:** *I can spend hours perfecting a pixel but still forget my coffee on the table!* ☕  
 
