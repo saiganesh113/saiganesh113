@@ -5,8 +5,8 @@
 ### 🌟 **Hi, I'm E.V Sai Ganesh!**  
 🚀 Passionate **Web & Mobile Developer** | 🎨 **UI/UX Designer** | 💡 Tech Enthusiast from **India** 
 
-🔭 **Currently working on:** **User-Management System**  
-🌱 **Exploring:** **Next.js, TypeScript & Tailwind CSS**  
+🔭 **Currently working on:** **NexSAA-Smart Assesment & Analytics Platform**  
+🌱 **Exploring:** **Next.js, TypeScript, Tailwind CSS & Redis (Caching)**
 🤝 **Looking to collaborate on:** **[Church Management System](https://www.figma.com/design/ECFjM13sLmVxqjUkjNkvLq/Church-Management-System?node-id=377-692&p=f&t=XvrgXKEV9KBdaI4n-0)**  
 
 📫 **Reach me at:** [iamevsaiganesh@gmail.com](mailto:iamevsaiganesh@gmail.com)  
@@ -21,12 +21,13 @@
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 
 
-| **Frontend** | **Backend** | **Database** | **Tools & Platforms** |
-|-------------|------------|-------------|----------------------|
+| **Frontend** | **Backend** | **Database & Caching** | **Tools & Platforms** |
+|-------------|------------|------------------------|----------------------|
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | | |![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |  |  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) |  |  |  |
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | |  |  |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) |  |  |  |
 
@@ -72,9 +73,10 @@
 ---
 
 ## 🎯 **What I Do Best:**  
-✅ Frontend Development (**HTML, React.js, Vue.js, Angular,**)  
+✅ Frontend Development (**HTML, React.js, Next.js, Vue.js, Angular**) 
 ✅ Backend Development (**Node.js, Express.js, Java, Python**)  
 ✅ Database Management (**MongoDB, MySQL**)  
 ✅ UI/UX Designing (**Figma, Photoshop**)  
 ✅ Mobile App Development (**React Native, Android Studio**)  
+✅ Performance Optimization (**Redis Caching, API Optimization**)  
 
