@@ -62,13 +62,8 @@
 ## 📊 **GitHub Stats:**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
   <img src="https://streak-stats.demolab.com?user=saiganesh113&theme=tokyonight&hide_border=false" width="48%" />
 </p> 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh113&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
-</p>
 
 🔥 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=saiganesh113&label=Profile%20views&color=0e75b6&style=flat)  
 
