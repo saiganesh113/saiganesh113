@@ -11,7 +11,7 @@
 
 📫 **Reach me at:** [iamevsaiganesh@gmail.com](mailto:iamevsaiganesh@gmail.com)  
 📂 **Portfolio:** [My Portfolio](https://saiganesh113.github.io/My_Portfolio/)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1rGWc7MZxsYEPdaPEcQv8zpTXQA0E-Vv3/view?usp=sharing)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1D4rXVt_RQcpgCj5bHyaIpcsVteyo7JA7/view?usp=sharing)  
 
 > 💡 **Fun Fact:** *I can spend hours perfecting a pixel but still forget my coffee on the table!* ☕  
 
@@ -26,11 +26,11 @@
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |  |  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |  |  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |  |  |  |
 | ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) |  |  |  |
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | |  |  |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) |  |  |  |
-
 
 ## 🌍 **Let's Connect!**  
 
@@ -60,13 +60,15 @@
 
 
 ## 📊 **GitHub Stats:**  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiganesh113&theme=radical&background=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saiganesh113&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=saiganesh113&theme=tokyonight&hide_border=false" width="48%" />
 </p> 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiganesh113&show_icons=true&locale=en&layout=compact" width="48%" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh113&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
+</p>
 
 🔥 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=saiganesh113&label=Profile%20views&color=0e75b6&style=flat)  
 
