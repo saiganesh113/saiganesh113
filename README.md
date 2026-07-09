@@ -61,10 +61,6 @@
 
 ## 📊 **GitHub Stats:**  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saiganesh113&theme=tokyonight&hide_border=false" width="48%" />
-</p> 
-
 🔥 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=saiganesh113&label=Profile%20views&color=0e75b6&style=flat)  
 
 ---
